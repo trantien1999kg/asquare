@@ -1,0 +1,6 @@
+::1(admin)--insert--counters(927) (19:15:50 15/11/2022)
+::1(admin)--query--tables(delete from table_online where time<1668513950) (19:15:50 15/11/2022)
+::1(admin)--insert--online(265527) (19:15:50 15/11/2022)
+::1(admin)--insert--counters(928) (19:39:59 15/11/2022)
+::1(admin)--query--tables(delete from table_online where time<1668515399) (19:39:59 15/11/2022)
+::1(admin)--insert--online(265528) (19:39:59 15/11/2022)
